@@ -5,16 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro</title>
-    <script src="index.js" ></script>
+    <script type="module">
+        import {index} from './index.js'
+        capturar();
+    </script>
 </head>
 <body>
     <section>
     <form action="">
         <input type="text" placeholder="Nome" id=nome> 
         <input type="number" placeholder="cpf" id=cpf>
-        <input type="text" placeholder="Estado Atual" id=EstadoAtual>
-        <input type="text" placeholder="Cidade Atual" id=CidadeAtual>
-        <input type="text" placeholder="Estado de Origem"id=EstadoOrigem>
+        <input type="text" placeholder="Estado Atual" id=Estado>
+        <input type="text" placeholder="Cidade Atual" id=Cidade>
         <section>
             <input type="submit" onclick="capturar()" value=cadastrar>
         </section>

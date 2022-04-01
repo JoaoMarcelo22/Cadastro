@@ -1,18 +1,14 @@
 export class Cliente{
     nome;
     cpf;
-    estadoA;
-    cidadeA;
-    idadeO;
-    
-    
+    estado;
+    cidade;
 
-    constructor(nome,cpf,estadoA,cidadeA,estadoOrigem){
+    constructor(nome,cpf,estado,cidade){
         this.nome = nome;
         this.cpf = cpf;
-        this.estadoAtual = estadoAtual;
-        this.cidadeAtual = cidadeAtual;
-        this.estadoOrigem = estadoOrigem;
+        this.estado = estado;
+        this.cidade = cidade;
     }
 
 }
