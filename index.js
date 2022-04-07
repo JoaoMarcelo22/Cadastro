@@ -1,5 +1,6 @@
 import {Cliente} from "./Cliente.js";
 export {capturar}
+
 let cidade = " ";
 let estado = " ";
 let cpf = " ";
@@ -9,11 +10,7 @@ function capturar(){
     cpf = document.getElementById('cpf').value;
     estado = document.getElementById('Estado').value;
     cidade = document.getElementById('Cidade').value;
-    return cliente1;
-    
+    let cliente1 = new Cliente(nome, cpf,estado,cidade) ;
+    console.log(cliente1);
 }
-
-let cliente1 = new Cliente(nome, cpf,estado,cidade) ;
-
-
-console.log(cliente1)
+//npx serve criação de um servidor local para o teste
