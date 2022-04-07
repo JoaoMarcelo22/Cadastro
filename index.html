@@ -5,20 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cadastro</title>
+    <link rel="stylesheet" href="style.css">
     <script type="module">
         import {capturar} from './index.js'
         window.capturar = capturar
     </script>
 </head>
 <body>
-    <section>
+    <section id="formulario">
     <form action="">
         <input type="text" placeholder="Nome" id="nome"> 
         <input type="number" placeholder="cpf" id="cpf">
         <input type="text" placeholder="Estado Atual" id="Estado">
         <input type="text" placeholder="Cidade Atual" id="Cidade">
-        <section>
-            <input type="button" onclick=capturar() value=cadastrar>
+        <section >
+            <input id="botao" type="button" onclick=capturar() value=cadastrar>
         </section>
 
     </form>

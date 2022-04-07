@@ -10,7 +10,7 @@ function capturar(){
     cpf = document.getElementById('cpf').value;
     estado = document.getElementById('Estado').value;
     cidade = document.getElementById('Cidade').value;
-    let cliente1 = new Cliente(nome, cpf,estado,cidade) ;
-    console.log(cliente1);
+    let cliente = new Cliente(nome, cpf,estado,cidade) ;
+    console.log(cliente);
 }
 //npx serve criação de um servidor local para o teste
