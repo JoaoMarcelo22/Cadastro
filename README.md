@@ -12,3 +12,6 @@
  <hr>
  <h3>Testando o projeto</h3>
  <h4>Links para entender um pouco mais sobre Node.js,NPM e NPX: <h4>
+  <h6>NPX</h6><p>https://blog.rocketseat.com.br/conhecendo-o-npx-executor-de-pacote-do-npm/</p>
+  <h6>Node.js</h6><p>https://www.opus-software.com.br/node-js/</p>
+ <h6>NPM</h6><p>https://www.hostinger.com.br/tutoriais/o-que-e-npm</p>
