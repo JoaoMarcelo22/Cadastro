@@ -6,6 +6,7 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
 <ul>
   <li>Passo um</li>
 </ul>
+ </li>
  
  <p>Instalando o pacote PNM</p>
  <p> utilize o comando</p> <h6>npm install cowsay -g <h/6> <p> para fazer a intalação</p>
