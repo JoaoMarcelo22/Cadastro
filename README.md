@@ -6,4 +6,4 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
  <h3>Instalação do pacote NPM:</h3>
  <p>Como toda linguagem precisa de Bibliotecas, com o Node.js, não será diferente, precisamos instalar a Biblioteca NPM para que tudo ocorra bem.</p>
  <h3>Instalação do pacote NPX:</h3> 
- <p>NPX é outra Bliblioteca que precisa baixar para que tudo ocorra corretamente </p>
+ <p>NPX é outra Bliblioteca que precisa baixar para que tudo ocorra corretamente. </p>
