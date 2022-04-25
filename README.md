@@ -5,5 +5,5 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
 <br>
 <ul>
   <li>Passo um</li>
-  <h3>Instalando o pacote do NPX</h3> 
+  <h6>Instalando o pacote do NPX</h6> 
 </ul>
