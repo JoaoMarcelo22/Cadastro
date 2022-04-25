@@ -9,4 +9,6 @@
  <p>NPX é outra Bliblioteca que precisa baixar para que tudo ocorra corretamente. </p>
  <h3>Baixar todos os arquivos:</h3>
  <p>Para baixar é algo simples e facil, nesta pagina mesmo, procure a opção de Releases, Clique em Tag, e lá vc poderá baixar o arquivo Zip completo, ou para treinar, vc pode trocar a Branch desta pagina para a "Master" e lá encontrará todos os arquivos necessarios </P>
+ <hr>
  <h3>Testando o projeto</h3>
+ <h4>Links para entender um pouco mais sobre Node.js,NPM e NPX: <h4>
