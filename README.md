@@ -6,4 +6,4 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
 <ul>
   <li>Passo um</li>
 </ul>
- <h3>Instalando o pacote PNM</h3>
+ <p>Instalando o pacote PNM</p>
