@@ -11,6 +11,7 @@
  <p>Para baixar é algo simples e facil, nesta pagina mesmo, procure a opção de Releases, Clique em Tag, e lá vc poderá baixar o arquivo Zip completo, ou para treinar, vc pode trocar a Branch desta pagina para a "Master" e lá encontrará todos os arquivos necessarios </P>
  <hr>
  <h3>Testando o projeto</h3>
+ <p>NPX SERVE</p>
  <h4>Links para entender um pouco mais sobre Node.js,NPM e NPX: <h4>
   <h6>NPX</h6><p>https://blog.rocketseat.com.br/conhecendo-o-npx-executor-de-pacote-do-npm/</p>
   <h6>Node.js</h6><p>https://www.opus-software.com.br/node-js/</p>
