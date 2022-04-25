@@ -3,7 +3,7 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
 <hr>
  <h2> passo a passo para fazer o projeto funcionar corretamente<h2>
 <br>
-<ul>
+<ol>
   <li>Passo um</li>
-</ul>
+</ol>
  <p>Instalando o pacote PNM</p>
