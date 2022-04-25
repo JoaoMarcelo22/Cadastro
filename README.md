@@ -5,5 +5,5 @@ Uma pagina Dinâmica, usando Html e Css para o front, e o JavaScrip para o Back,
 <br>
 <ul>
   <li>Passo um</li>
-  <h6>Instalando o pacote do NPM font-size:5px;</h6>
 </ul>
+ <h3>Instalando o pacote PNM</h3>
