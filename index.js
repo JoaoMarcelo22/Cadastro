@@ -13,4 +13,5 @@ function capturar(){
     let cliente = new Cliente(nome, cpf,estado,cidade) ;
     console.log(cliente);
 }
+//NPX SERVE  comando para iniciar o servidor local
 //npx serve criação de um servidor local para o teste
